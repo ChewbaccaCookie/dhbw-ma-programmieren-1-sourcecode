@@ -15,6 +15,10 @@ The repository is divided into two main modules:
 
 The code used in lectures can be found in the `lecture-code` directory. Navigate through the directory to explore various topics covered in the lectures.
 
+### Tasks
+All tasks are located in the `tasks` directory. 
+Each task is located in a separate directory and contains a `task.md` file with the task description and source code or a `solution.md` file with the solution to the task.
+
 ## Getting Started
 
 To get started with the source code, clone this repository using the following command:
