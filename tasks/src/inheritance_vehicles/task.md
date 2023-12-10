@@ -1,6 +1,6 @@
 # Aufgabe: Vererbung - Fahrzeuge
 
-Implementieren Sie die Klassen `Vehicle`, `Car`, `Bicycle` und `Motorbike` aus der [Aufgabe Vererbung - Theorie](../inheritance_theory_vehicles/task.md).
+Implementieren Sie die Klassen `Vehicle`, `Car`, `Bicycle` und `Motorbike` aus der [Aufgabe Vererbung - Theorie](https://github.com/ChewbaccaCookie/dhbw-ma-programmieren-1-sourcecode/blob/main/tasks/src/inheritance_theory_vehicles/task.md).
 
 ## Erweiterung
 

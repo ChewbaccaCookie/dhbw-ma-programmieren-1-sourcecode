@@ -1,6 +1,6 @@
 # Aufgabe: Abstrakte Klassen
 
-Erweitern Sie Ihren Code aus der [Aufgabe "Vererbung - Fahrzeuge"](../inheritance_vehicles/task.md) um eine abstrakte Klasse `MotorVehicle`, welche die Superklasse für `Car` und `Motorbike` ist.
+Erweitern Sie Ihren Code aus der [Aufgabe "Vererbung - Fahrzeuge"](https://github.com/ChewbaccaCookie/dhbw-ma-programmieren-1-sourcecode/blob/main/tasks/src/inheritance_vehicles/task.md) um eine abstrakte Klasse `MotorVehicle`, welche die Superklasse für `Car` und `Motorbike` ist.
 
 ## Aufgabenstellung
 
