@@ -4,9 +4,6 @@ Entwickeln Sie eine Klasse `Student`, welche eine Abbildung von Studenten darste
 
 Erstellen sie die Klasse `Student` mit folgenden Attributen und Methoden. Erstellen Sie dann in der `main()`-Methode mindestens drei Studenten und initialisieren Sie die Attribute mit Werten Ihrer Wahl. Geben Sie die Studenten-Informationen mit der `printInfo()`-Methode aus.
 
-<div class="split">
-<div>
-
 **Attribute:**
 
 - `firstName`
@@ -15,16 +12,10 @@ Erstellen sie die Klasse `Student` mit folgenden Attributen und Methoden. Erstel
 - `semester`
 - `age`
 
-</div>
-<div>
-
 **Methoden:**
 
 - `getFullName()`: Gibt den vollen Namen des Studenten zurück
 - `printInfo()`: Gibt alle Attribute des Objekts in einem lesbaren Format aus
-
-</div>
-</div>
 
 ---
 
