@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dhbw-ma-programmieren-1-sourcecode.iml" filepath="$PROJECT_DIR$/dhbw-ma-programmieren-1-sourcecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-code/lecture-code.iml" filepath="$PROJECT_DIR$/lecture-code/lecture-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks/tasks.iml" filepath="$PROJECT_DIR$/tasks/tasks.iml" />
+    </modules>
+  </component>
+</project>
