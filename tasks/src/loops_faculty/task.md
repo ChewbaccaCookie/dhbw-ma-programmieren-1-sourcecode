@@ -14,4 +14,4 @@ Schreiben Sie ein Java-Programm, das die Fakultät einer gegebenen Zahl berechne
 
 ### Hinweis: Definition Fakultät
 
-> Die Fakultät einer nicht-negativen ganzen Zahl $n$ (bezeichnet als $n!$) ist das Produkt aller positiven ganzen Zahlen von $1$ bis $n$. Zum Beispiel ist $5!$ gleich $5 *4* 3 *2* 1 = 120$.
+> Die Fakultät einer nicht-negativen ganzen Zahl n (bezeichnet als n!) ist das Produkt aller positiven ganzen Zahlen von 1 bis n. Zum Beispiel ist 5! gleich 5 * 4 * 3 * 2 * 1 = 120.
