@@ -10,6 +10,8 @@ Erstellen Sie ein einfaches Bibliotheksverwaltungssystem in Java, das verschiede
 
 ---
 
+## Erweiterung
+
 - Erstellen Sie eine Klasse `Library`, die eine Liste von `LibraryItem`-Objekten verwaltet
 - Implementieren Sie die Methoden `addItem()`, `removeItem()`, `checkOutItem()`, `checkInItem()`, um die Verwaltung der Bibliotheksobjekte zu ermöglichen
 - Die `Library`-Klasse soll sicherstellen, dass mehrere Benutzer gleichzeitig Elemente ausleihen können, ohne dass es zu Problemen mit der Verfügbarkeit kommt
