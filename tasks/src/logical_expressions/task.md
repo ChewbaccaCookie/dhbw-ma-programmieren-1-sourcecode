@@ -3,6 +3,7 @@
 ## Aufgabenstellung
 
 ## Logische Audrücke
+
 | Variablen  | Ausdruck                                       | Ergebnis |
 |------------|------------------------------------------------|----------|
 | `int a = 5;`<br>`int b = 10;`<br>`boolean flag = true;` | `a > 0 && b < 15 && flag` |      |

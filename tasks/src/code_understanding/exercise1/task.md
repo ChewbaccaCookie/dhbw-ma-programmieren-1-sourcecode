@@ -1,4 +1,4 @@
-# Aufgabe: Coder Verständnis 1
+# Aufgabe: Code Verständnis 1
 
 ## Aufgabenstellung
 
