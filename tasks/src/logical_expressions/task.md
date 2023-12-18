@@ -1,8 +1,11 @@
 # Aufgabe: Logische Ausdrücke
 
 ## Aufgabenstellung
+Betrachten Sie untenstehende Tabelle.
+In der ersten Spalte finden Sie die vorgegebenen Variablen und Ihre Werte, welche für die in der zweiten Spalte zu findenden logischen Ausdrücke verwendet werden.
+Tragen Sie in der dritten Spalte ein, ob der logische Ausdruck `true` oder `false` ergibt.
 
-## Logische Audrücke
+## Logische Ausdrücke
 
 | Variablen  | Ausdruck                                       | Ergebnis |
 |------------|------------------------------------------------|----------|
