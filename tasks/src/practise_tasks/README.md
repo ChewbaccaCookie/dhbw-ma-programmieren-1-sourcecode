@@ -21,10 +21,10 @@ Mit `String.split(String splitChars) String[]` können Strings aufgesplittet wer
 
 __Beispiel:__
 ```java
-System.out.println("Hello World".split(""))
+"Hello World".split("");
 // ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d"]
 
-System.out.println("1,3,2,4,5".split(","))
+"1,3,2,4,5".split(",");
 // ["1", "2", "3", "4", "5"]
 ```
 
@@ -75,10 +75,10 @@ Mit `String.split(String splitChars) String[]` können Strings aufgesplittet wer
 
 __Beispiel:__
 ```java
-System.out.println("Hello World".split(""))
+"Hello World".split("");
 // ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d"]
-
-System.out.println("1,3,2,4,5".split(","))
+ 
+"1,3,2,4,5".split(",");
 // ["1", "2", "3", "4", "5"]
 ```
 
@@ -204,3 +204,47 @@ Erstellen Sie eine Klasse TicTacToeGame mit einer main-Methode, in der Sie
 ihr Spiel testen.
 
 Ihr Computer-Spieler sollte keine unerlaubten Züge durchführen.
+
+## Sudoku
+
+Erstellen Sie ein Programm mit einer Methode, die überprüfen kann, ob ein zweidimensionales Array (9x9) mit Nummern ein valides Sudoku-Board ist.
+
+__Beispiel:__
+
+Valide:
+```
+5 3 4 | 6 7 8 | 9 1 2
+6 7 2 | 1 9 5 | 3 4 8
+1 9 8 | 3 4 2 | 5 6 7
+------+-------+------
+8 5 9 | 7 6 1 | 4 2 3
+4 2 6 | 8 5 3 | 7 9 1
+7 1 3 | 9 2 4 | 8 5 6
+------+-------+------
+9 6 1 | 5 3 7 | 2 8 4
+2 8 7 | 4 1 9 | 6 3 5
+3 4 5 | 2 8 6 | 1 7 9
+```
+
+Nicht richtig:
+```
+9 9 9 | 9 9 9 | 9 9 9
+9 9 9 | 9 9 9 | 9 9 9
+9 9 9 | 9 9 9 | 9 9 9
+------+-------+------
+9 9 9 | 9 9 9 | 9 9 9
+9 9 9 | 9 9 9 | 9 9 9
+9 9 9 | 9 9 9 | 9 9 9
+------+-------+------
+9 9 9 | 9 9 9 | 9 9 9
+9 9 9 | 9 9 9 | 9 9 9
+9 9 9 | 9 9 9 | 9 9 9
+```
+
+### Erweiterung
+
+Implementieren Sie die volle Logik um Sudoku Spielen zu können. 
+Erstellen Sie entweder ein zufälliges (valides) Board  oder geben sie ein
+vordefiniertes Brett zum Spielstart aus. 
+Der Spieler soll dann mithilfe der Eingabe ins Terminal das Soduku lösen können. 
+Ein überschreiben von vorher eingegebenen Werten ist möglich.
