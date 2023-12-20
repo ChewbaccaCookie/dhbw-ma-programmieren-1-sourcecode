@@ -11,6 +11,23 @@ Sprache.
 ## Umgekehrte Worte
 Schreiben Sie eine Funktion, die eine gegebene Zeichenkette nimmt und die Reihenfolge der Wörter umkehrt.
 
+__Beispiel:__
+
+`Good morning John!` -> `John! morning Good`
+
+__Notwendige Funktion:__
+
+Mit `String.split(String splitChars) String[]` können Strings aufgesplittet werden.
+
+__Beispiel:__
+```java
+System.out.println("Hello World".split(""))
+// ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d"]
+
+System.out.println("1,3,2,4,5".split(","))
+// ["1", "2", "3", "4", "5"]
+```
+
 ## Fibonacci Folge
 
 Implementieren Sie eine Funktion, die die 50te Zahl der Fibonacci Folge berechnen kann.
@@ -42,6 +59,28 @@ Schreiben Sie ein Programm, welches aus einem Array mit Zahlen die größte Zahl
 ## Array umkehren
 
 Entwickeln Sie ein Programm, welches ein Eingabearray umkehren kann.
+
+## Gültige Klammern
+Überprüfe, ob eine Zeichenkette, die Klammern enthält `(), {}, []`, gültig geschachtelt ist.
+
+__Beispiel:__
+
+- Gültig: `[HelloWold(abc{123})]`
+- Ungültig: `[Hello{World]}`
+- Ungültig `{HelloWorld[]`
+
+__Notwendige Funktion:__
+
+Mit `String.split(String splitChars) String[]` können Strings aufgesplittet werden.
+
+__Beispiel:__
+```java
+System.out.println("Hello World".split(""))
+// ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d"]
+
+System.out.println("1,3,2,4,5".split(","))
+// ["1", "2", "3", "4", "5"]
+```
 
 ## Analyse
 
