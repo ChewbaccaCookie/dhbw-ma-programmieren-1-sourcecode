@@ -20,11 +20,15 @@ __Notwendige Funktion:__
 Mit `String.split(String splitChars) String[]` können Strings aufgesplittet werden.
 
 __Beispiel:__
-```java
-"Hello World".split("");
+```
+String test = "Hello World";
+String[] splittedTest = test.split("");
+System.out.println(splittedTest);
 // ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d"]
 
-"1,3,2,4,5".split(",");
+String numbers = "1,3,2,4,5";
+String[] splittedNumbers = numbers.split(",");
+System.out.println(splittedNumbers);
 // ["1", "2", "3", "4", "5"]
 ```
 
@@ -38,10 +42,6 @@ Geben Sie alle ungeraden Zahlen bis 100 aus.
 
 ## Einheitenkonverterung 
 Erstellen Sie zwei Methoden, die es erlauben von Grad Celsius in Grad Fahrenheit und umgekehrt zu konvertieren.
-
-## Zahlensystem-Konvertierung (Schwer)
-
-Entwerfen Sie ein Programm, welches Dezimalzahlen in Römische Zahlen und umgekehrt konvertieren kann.
 
 ## Jede zweite Zahl
 
@@ -74,11 +74,15 @@ __Notwendige Funktion:__
 Mit `String.split(String splitChars) String[]` können Strings aufgesplittet werden.
 
 __Beispiel:__
-```java
-"Hello World".split("");
+```
+String test = "Hello World";
+String[] splittedTest = test.split("");
+System.out.println(splittedTest);
 // ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d"]
- 
-"1,3,2,4,5".split(",");
+
+String numbers = "1,3,2,4,5";
+String[] splittedNumbers = numbers.split(",");
+System.out.println(splittedNumbers);
 // ["1", "2", "3", "4", "5"]
 ```
 
@@ -185,6 +189,10 @@ Niederschlagswert durch 3,785411784 geteilt werden.
 
 3,785411784 Liter entsprechen 1 Gallone
 10 Liter entsprechen 2,641720524 Gallonen
+
+## Zahlensystem-Konvertierung (Schwer)
+
+Entwerfen Sie ein Programm, welches Dezimalzahlen in Römische Zahlen und umgekehrt konvertieren kann.
 
 ## Tic-Tac-Toe (Schwer)
 
