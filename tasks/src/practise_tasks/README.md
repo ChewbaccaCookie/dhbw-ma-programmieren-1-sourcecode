@@ -36,10 +36,10 @@ Implementieren Sie eine Funktion, die die 50te Zahl der Fibonacci Folge berechne
 
 Geben Sie alle ungeraden Zahlen bis 100 aus.
 
-## Einheitenkonverterung
+## Einheitenkonverterung 
 Erstellen Sie zwei Methoden, die es erlauben von Grad Celsius in Grad Fahrenheit und umgekehrt zu konvertieren.
 
-## Zahlensystem-Konvertierung
+## Zahlensystem-Konvertierung (Schwer)
 
 Entwerfen Sie ein Programm, welches Dezimalzahlen in Römische Zahlen und umgekehrt konvertieren kann.
 
@@ -186,7 +186,7 @@ Niederschlagswert durch 3,785411784 geteilt werden.
 3,785411784 Liter entsprechen 1 Gallone
 10 Liter entsprechen 2,641720524 Gallonen
 
-## Tic-Tac-Toe
+## Tic-Tac-Toe (Schwer)
 
 Erstellen Sie eine Klasse `TicTacToe`, 
 die dazu in der Lage ist ein eigenes TicTacToe-Spiel durchzuführen. 
