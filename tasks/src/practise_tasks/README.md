@@ -190,6 +190,28 @@ Niederschlagswert durch 3,785411784 geteilt werden.
 3,785411784 Liter entsprechen 1 Gallone
 10 Liter entsprechen 2,641720524 Gallonen
 
+## Online-Shop
+Entwicklen Sie ein Java-Programm für einen einfachen Online-Shop. Implementieren Sie die Klassen Produkt, Warenkorb und Hauptprogramm.
+
+Die Produkt-Klasse soll folgende Eigenschaften haben:
+
+- Produktname
+- Produkt-ID
+- Preis pro Einheit
+
+Die Warenkorb-Klasse soll die Warenkorb-Funktionalitäten enthalten:
+
+- Produkte zum Warenkorb hinzufügen
+- Produkte aus dem Warenkorb entfernen
+- Gesamtpreis des Warenkorbs berechnen
+- Listen der gespeicherten Produkte
+
+Das Hauptprogramm sollte die Interaktion mit dem Online-Shop ermöglichen:
+
+- Simulation eines Einkaufsprozesses
+
+Implementiere die Klassen gemäß den genannten Anforderungen und erstelle ein Hauptprogramm, das die Funktionalitäten des Online-Shops demonstriert.
+
 ## Zahlensystem-Konvertierung (Schwer)
 
 Entwerfen Sie ein Programm, welches Dezimalzahlen in Römische Zahlen und umgekehrt konvertieren kann.
