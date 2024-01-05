@@ -192,6 +192,7 @@ Niederschlagswert durch 3,785411784 geteilt werden.
 
 ## Online-Shop
 Entwicklen Sie ein Java-Programm für einen einfachen Online-Shop. Implementieren Sie die Klassen Produkt, Warenkorb und Hauptprogramm.
+Erstellen Sie ein UML-Diagramm, bevor sie die Aufgabe implementieren.
 
 Die Produkt-Klasse soll folgende Eigenschaften haben:
 
