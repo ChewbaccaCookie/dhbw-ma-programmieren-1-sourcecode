@@ -18,8 +18,6 @@ public class HelloWorld {
 }
 ```
 
----
-
 4. Führe das Programm aus.
 5. Füge einen weiteren `println`-Befehl unter dem bereits bestehdenden hinzu und lasse ihn `Hello <YourName>!` ausgeben.
 6. Führe das Programm erneut aus.
