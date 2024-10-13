@@ -1,9 +1,7 @@
-package operators_expressions;
+void main() {
+    String name = "John";
+    System.out.println("Hello " + name);
 
-public class StringConcat {
-
-    public static void main(String[] args) {
-        int x = 5;
-        System.out.println("x=" + x); // x=5
-    }
+    int x = 5;
+    System.out.println("x = " + x);
 }

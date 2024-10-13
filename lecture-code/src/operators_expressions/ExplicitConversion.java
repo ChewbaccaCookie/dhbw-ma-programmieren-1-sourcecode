@@ -1,21 +1,22 @@
-package operators_expressions;
+void main() {
+    float f = 987.654f;
+    System.out.println(f);
 
-public class ExplicitConversion {
+    //Konvertierung mit Genauigkeitsverlust
+    int i = (int) f;
+    byte b = (byte) i;
+    System.out.println(i);
+    System.out.println(b);
 
-    public static void main(String[] args) {
-        float f = 987.654f;
-        System.out.println(f); // 987.654
+    //Konvertierung ohne Genauigkeitsverlust
+    b = (byte) (b + 1);
+    f = (float) i / 13;
+    System.out.println(b);
+    System.out.println(f);
 
-        //Konvertierung mit Genauigkeitsverlust
-        int i = (int) f;
-        byte b = (byte) i;
-        System.out.println(i); // 987
-        System.out.println(b); // -37
-
-        //Konvertierung ohne Genauigkeitsverlust
-        b = (byte) (b + 1);
-        f = (float) i / 13;
-        System.out.println(b); // -36
-        System.out.println(f); // 75.92308
-    }
+    //Stringkonvertierung
+    String strB = Byte.toString(b);
+    String strF = Float.toString(f);
+    String strI = Integer.toString(i);
+    // ...
 }

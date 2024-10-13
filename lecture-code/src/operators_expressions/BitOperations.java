@@ -1,23 +1,19 @@
-package operators_expressions;
+void main() {
+    //Bitweise Logische Operatoren
+    byte isAdult = 15;
+    byte isMale = 102;
 
-public class BitOperations {
+    System.out.println(~isAdult);
+    System.out.println(isAdult & isMale);
+    System.out.println(isAdult | isMale);
+    System.out.println(isAdult ^ isMale);
 
-    public static void main(String[] args) {
-        //Bitweise Logische Operatoren
-        byte isAdult = 15;
-        byte isMale = 102;
+    System.out.println("Bitshift operatoren:");
 
-        System.out.println(~isAdult); // -16
-        System.out.println(isAdult & isMale); // 6
-        System.out.println(isAdult | isMale); // 111
-        System.out.println(isAdult ^ isMale); // 105
+    byte x = 1;
+    byte y = -1;
 
-        // Bitshift operatoren
-        byte x = 1;
-        byte y = -1;
-
-        System.out.println(x << 1); // 2
-        System.out.println(y >> 1); // -1
-        System.out.println(y >>> 1); // 2147483647
-    }
+    System.out.println(x << 1);
+    System.out.println(y >> 1);
+    System.out.println(y >>> 1);
 }
