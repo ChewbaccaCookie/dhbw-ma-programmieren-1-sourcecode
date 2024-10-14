@@ -1,14 +1,9 @@
-package statements;
+void main() {
+    //Deklaration und Initinalisierung von Variablen
+    int age = 18 + 1;
+    char gender = 'm';
 
-public class Statements {
-
-    public static void main(String[] args) {
-        //Deklaration und Initinalisierung von Variablen
-        int age = 18 + 1;
-        char gender = 'm';
-
-        //Methodenaufruf
-        System.out.println("age=" + age);
-        System.out.println("gender=" + gender);
-    }
+    //Methodenaufruf
+    System.out.println("age=" + age);
+    System.out.println("gender=" + gender);
 }

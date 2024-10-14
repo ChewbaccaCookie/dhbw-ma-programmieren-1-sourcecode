@@ -1,21 +1,20 @@
-package statements;
+void main() {
+    int month = 3; // März
+    boolean leapYear = true;
+    int days = 31;
 
-public class IfElse {
-
-    public static void main() {
-        int month = 2;
-        boolean leapYear = false;
-        int days = 31;
-
-        if (month == 2 && leapYear) {
-            days = 29;
-        } else if (month == 2) {
+    if (month == 2 && leapYear) {
+        days = 29;
+    } else {
+        if (month == 2) {
             days = 28;
-        } else if (month == 4) {
-            days = 30;
+        } else {
+            if (month == 4) {
+                days = 30;
+            } else {
+                //…
+            }
         }
-        //...
-
-        System.out.println("days=" + days);
     }
+    System.out.println("days=" + days);
 }
