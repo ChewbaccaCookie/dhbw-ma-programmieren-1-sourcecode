@@ -29,11 +29,16 @@ Benenne die Klasse HelloWorld und drücke Enter.
 
 ![image](intellij-new-class-dialog.png)
 
-Füge nun den Hello World Code ein und drücke auf den grünen Play Button.
+Lösche den bereits bestehenden Code und füge nun den Hello World Code ein.
 
 ![image](finished.png)
 
+Da wir am Anfang ein experimentelles Feature mit dem Namen `Implicit Classes` verwenden, muss dieses Feature erst aktiviert werden.
+Dafür hover mit der Maus über "main" und klicke auf den Button "Set language level to 23 (Preview) - ...".
 
+![image](activate-implicit-classes.png)
+
+Führe das Programm aus, indem du auf den grünen Pfeil neben der Main-Methode klickst.
 Die folgenden Bilder zeigen, wie das Ergebnis aussehen sollte.
 
 ![image](expected-1.png)
