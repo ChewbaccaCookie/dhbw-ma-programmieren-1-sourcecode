@@ -1,16 +1,11 @@
-package statements;
+void main() {
+    int sum = 0;
+    int i = 0;
 
-public class DoWhile {
-
-    public static void main(String[] args) {
-        int sum = 0;
-        int i = 0;
-
-        // do <Anweisung> while (<Ausdruck>);
-        do {
-            sum += i;
-            System.out.println("sum = " + sum);
-            ++i;
-        } while (i < 10);
-    }
+    // do <AnweisungsBlock> while (<Ausdruck>);
+    do {
+        sum += i;
+        System.out.println("sum = " + sum);
+        ++i;
+    } while (i < 10);
 }

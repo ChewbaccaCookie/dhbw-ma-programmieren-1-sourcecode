@@ -1,16 +1,11 @@
-package statements;
+void main() {
+    int sum = 0;
+    int i = 0;
 
-public class WhileLoop {
-
-    public static void main(String[] args) {
-        int sum = 0;
-        int i = 0;
-
-        // while(<Ausdruck>) <Anweisung oder Block>
-        while (i < 10) {
-            sum += i;
-            System.out.println("sum = " + sum);
-            i++;
-        }
+    // while(<Ausdruck>) <AnweisungsBlock>
+    while (i < 10) {
+        sum += i;
+        System.out.println("sum = " + sum);
+        i++;
     }
 }
