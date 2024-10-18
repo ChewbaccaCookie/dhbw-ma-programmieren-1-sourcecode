@@ -17,4 +17,4 @@ Schreiben Sie ein Java-Programm, das den Flächeninhalt eines Rechtecks, eines K
 
 1. Berechnen Sie das Volumen einer **Kugel**, eines **Kegels** und eines **Zylinder**.
 1. Geben Sie für die Kugel in **Prozent** an, wieviel Größer das Volumen im Gegensatz zu den anderen Formen ist.
-2. Berechnen Sie die **Flächen** aller Formen.
+2. Berechnen Sie die **Oberflächen** aller Formen.
