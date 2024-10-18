@@ -2,7 +2,7 @@
 
 ## Aufgabenstellung
 
-Schreiben Sie ein Java-Programm, das den Flächeninhalt eines Rechtecks und eines Kreises berechnet und ausgibt.
+Schreiben Sie ein Java-Programm, das den Flächeninhalt eines Rechtecks, eines Kreises und das Volumen einer Kugel, eines Kegels sowie eines Zylinders berechnet. Das Programm soll zusätzlich einige Vergleiche anstellen und die Ergebnisse in der Konsole ausgeben.
 
 ## Anleitung
 
@@ -15,6 +15,6 @@ Schreiben Sie ein Java-Programm, das den Flächeninhalt eines Rechtecks und eine
 
 ## Erweiterung
 
-1. Berechnen Sie das Volumen einer Kugel, eines Kegels und eines Zylinders.
-1. Geben Sie für die Kugel in Prozent an, wieviel Größer das Volumen im Gegensatz zu den anderen Formen ist.
-2. Berechnen Sie die Umfänge aller Formen.
+1. Berechnen Sie das Volumen einer **Kugel**, eines **Kegels** und eines **Zylinder**.
+1. Geben Sie für die Kugel in **Prozent** an, wieviel Größer das Volumen im Gegensatz zu den anderen Formen ist.
+2. Berechnen Sie die **Flächen** aller Formen.
