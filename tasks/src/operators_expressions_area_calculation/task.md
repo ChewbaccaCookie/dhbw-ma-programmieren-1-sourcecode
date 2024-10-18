@@ -12,3 +12,9 @@ Schreiben Sie ein Java-Programm, das den Flächeninhalt eines Rechtecks und eine
 1. Berechnen Sie die Flächeninhalte und speichern Sie die Werte in den Variablen.
 1. Geben Sie die Flächeninhalte in der Konsole aus.
 1. Berechnen Sie nun wie viel Prozent größer der Flächeninhalt des Kreises im Vergleich zum Rechteck ist und geben Sie das Ergebnis in der Konsole aus.
+
+## Erweiterung
+
+1. Berechnen Sie das Volumen einer Kugel, eines Kegels und eines Zylinders.
+1. Geben Sie für die Kugel in Prozent an, wieviel Größer das Volumen im Gegensatz zu den anderen Formen ist.
+2. Berechnen Sie die Umfänge aller Formen.
