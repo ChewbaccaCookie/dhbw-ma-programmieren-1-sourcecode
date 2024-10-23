@@ -174,9 +174,9 @@ $0,496 \cdot 2 = 0,992 \ \text{(Ganzzahl)} \ 0$
 
 $0,992 \cdot 2 = 1,984 \ \text{(Ganzzahl)} \ 1$
 
-Von oben nach unten gelesen: $0,781_{10} \approx 0,11001_2$
+Von oben nach unten gelesen: $0,781_{10} \approx 0,110001_2$
 
-Daher: $315,781_{10} \approx 100111011,11001_2$
+Daher: $315,781_{10} \approx 100111011,110001_2$
 
 ### e) $83,8429_{10}$
 
