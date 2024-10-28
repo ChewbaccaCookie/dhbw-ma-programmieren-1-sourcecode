@@ -14,8 +14,7 @@ Entwickeln Sie ein Programm, das ein Array mit Ganzzahlen mit dem [Bubble-Sort-A
 
 ### Hilfreiche Funktion
 
-Um ein Array in einfach in der Konsole auszugeben, kann die Funktion `Arrays.toString(...)` verwendet werden.
-Die Klasse Arrays muss dazu mit `import java.util.Arrays;` importiert werden.
+Um ein Array in der Konsole auszugeben, kann die Funktion `Arrays.toString(...)` verwendet werden.
 
 ## Erweiterung
 
