@@ -10,7 +10,7 @@ public class Overloading {
 
     // Überladene Methode zur Ausgabe einer Fließkommazahl
     public static void printInfo(double number) {
-        System.out.println("Fließkommazahl: " + String.format("%,.2f", number));
+        System.out.println("Fließkommazahl: " + String.format("%,.4f", number));
     }
 
     // Überladene Methode zur Ausgabe einer Zeichenkette
@@ -28,7 +28,7 @@ public class Overloading {
         int integerNumber = 42;
         double doubleNumber = 3.14159;
         String text = "Hello, World!";
-        int[] integerArray = {1, 2, 3, 4, 5};
+        int[] integerArray = { 1, 2, 3, 4, 5 };
 
         printInfo(integerNumber);
         printInfo(doubleNumber);
