@@ -17,5 +17,6 @@ Jede Funktion soll eine entsprechende Ausgabe auf der Konsole erzeugen und logis
 
 ## Erweiterung
 
-- Erstellen Sie eine abstrakte Klasse `Animal` mit den Methoden `eat()`, `sleep()` und `makeSound()` und den Attributen `name` und `species`.
-- Lassen Sie die Klasse `Bird`, `Fish` und `Duck` von der Klasse `Animal` erben.
+- Erstellen Sie eine abstrakte Klasse `Animal` mit den Methoden `eat()`, `sleep()` und `makeSound()` und den Attributen
+  `name` und `species`.
+- Lassen Sie die Klasse `Fish` und `Duck` von der Klasse `Animal` erben.
