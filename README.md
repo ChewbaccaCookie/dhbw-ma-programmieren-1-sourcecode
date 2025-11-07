@@ -1,6 +1,6 @@
 # DHBW Mannheim - Programmieren 1 Sourcecode
 
-Welcome to the repository for the **Programmieren 1** lecture for the course WWI23SCB at the DHBW Mannheim. This repository is a resource for students to access the source code used within the lecture material as well as the tasks assigned during the course. Solutions for the tasks are also provided to aid in self-study and experimentation.
+Welcome to the repository for the **Programmieren 1** lecture at the DHBW Mannheim. This repository is a resource for students to access the source code used within the lecture material as well as the tasks assigned during the course. Solutions for the tasks are also provided to aid in self-study and experimentation.
 
 ## Structure
 
